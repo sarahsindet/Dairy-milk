@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    background-color:bisque;
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+h1,h2,h3{
+    background-color:brown;
+}
